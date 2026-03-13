@@ -16,3 +16,32 @@ html {
 p {
   color: rgb(85, 85, 85);
 }
+.section__text {
+  align-self: center;
+  text-align: center;
+}
+.section__text__p1 {
+  text-align: center;
+}
+.section__text p {
+  font-weight: 600;
+}
+.section__text__p2 {
+  font-size: 1.75rem;
+  margin-bottom: 1rem;
+  text-align: center;
+}
+
+.title {
+  font-size: 3rem;
+  text-align: center;
+}
+
+
+section {
+  padding-top: 4vh;
+  height: 96vh;
+  margin: 0 10rem;
+  box-sizing: border-box;
+  min-height: fit-content;
+}
